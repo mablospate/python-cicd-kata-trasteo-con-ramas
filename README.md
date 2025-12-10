@@ -247,6 +247,8 @@ To submit the exercise, please send an email to aulaupm@nextdigital.es before th
 
 ### Notes
 
+
+
 - **Note 1**: Keep in mind that Java is a compiled language, unlike Python. This changes the approach for CI/CD. Base your CI/CD configuration on how you set up the repository when working locally.
 
 - **Note 2**: Since Java is a strongly typed language, you do not need a static type checker. The compiler itself will handle type errors.
